@@ -1,11 +1,12 @@
-# Sample Snack app
+# Calculator app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+# ST10434032
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+<h2> This is my basic calculator application tht i have created using the guides from my lecturer as well has the guides avaiable on https://reactnative.dev/docs/getting-started </h2>
+Opening the `App.js` will show the code that was used to create the application
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Referneces used:
+
+React Native. 2024. Introduction, 15 August 2024.[Online] Avaiable at:https://reactnative.dev/docs/getting-started [Acessed 26 August 2024]
